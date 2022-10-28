@@ -1,6 +1,6 @@
 # Enumerable
 
-A repository used to learn, practice and master the ruby language
+This repository used to learn, practice and master the ruby language
 
 ## Built With
 
